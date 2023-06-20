@@ -1,4 +1,4 @@
-Hi 👋 My name is Akinge Samuel
+Hi 👋 My name is Akingbe Samuel
 ==============================
 
 Frontend/Backend Web Developer
